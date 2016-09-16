@@ -1,3 +1,10 @@
+---
+layout: narrative
+title: The attached narrative pertains to Military Government's and its German counterpart
+author: OMGUS
+year: unknown
+---
+
 The attached narrative pertains
 to Military Government's and its
 German counterpart organization's
