@@ -3,6 +3,7 @@ layout: narrative
 title: The attached narrative pertains to Military Government's and its German counterpart
 author: OMGUS
 year: unknown
+Source: National Archives, College Park, MD: RG 260/390/51/13/5 Box 634
 ---
 
 The attached narrative pertains
